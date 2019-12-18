@@ -1,0 +1,7 @@
+[Data]
+root = "/home/gawainx/data"
+chkp = "chkp"
+
+[Model]
+embd_dim = 768
+hidden_dim = 5
