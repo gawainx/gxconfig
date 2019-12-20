@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
         name='gxconfig',  # package name
-        version='0.0.1',  # version
+        version='0.0.2',  # version
         description="A Global config tools created by gawainx",
         author='gawainx',
         author_email='liangyi@bupt.edu.cn',

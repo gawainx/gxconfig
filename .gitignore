@@ -7,7 +7,7 @@ __pycache__/
 .idea/
 # C extensions
 *.so
-
+.DS_Store
 # Distribution / packaging
 .Python
 build/
@@ -143,4 +143,4 @@ ipython_config.py
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
-
+gxconfig/cfg.toml
